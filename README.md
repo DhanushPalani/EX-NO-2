@@ -49,5 +49,7 @@ while True:
 ![Output](./server2.png)
 # CLIENT OUTPUT :
 ![Output](./client2.png)
+# RESULLT:
+Thus, python program to perform stop and wait protocol was successfully executed.
 
 
